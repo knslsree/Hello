@@ -1,10 +1,10 @@
 
-public class MyFirstProject {
+public class VariableOne {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
 		// TODO Auto-generated method stub
-
+		int myNum = 15;
+		System.out.println(myNum);
 	}
 
 }
